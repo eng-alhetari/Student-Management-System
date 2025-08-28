@@ -14,8 +14,8 @@ This project was completed in **two phases**:
 - login.js # Login logic (sample file)
 - project_description_phase1.pdf # Phase 1 requirements
 - project_description_phase2.pdf # Phase 2 requirements
-- web_Project Phase 1_Report.docx # Detailed report (Phase 1)
-- web_Project Phase 2_Report.docx # Detailed report (Phase 2)
+- web_Project Phase 1_Report.pdf # Detailed report (Phase 1)
+- web_Project Phase 2_Report.pdf # Detailed report (Phase 2)
 
 
 ---
